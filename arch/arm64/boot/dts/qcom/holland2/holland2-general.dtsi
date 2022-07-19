@@ -24,8 +24,6 @@
 			fstab {
 
 				/delete-node/ vbmeta;
-                                /delete-node/ vendor;
-                                /delete-node/ system;
 			};
 		};
 	};
